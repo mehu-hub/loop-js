@@ -1,3 +1,11 @@
+/**
+ * Loop variable
+ * condition inside while
+ * loop body
+ * Change the loop variable
+*/ 
+
+
 var roastGiven = 0;
 
 while(roastGiven < 7){
