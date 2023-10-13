@@ -5,4 +5,4 @@
 3. Break / Continue
 4. Numbers
 5. Even / Odd
-<!-- 6. Array Loop -->
+6. Array Loop
