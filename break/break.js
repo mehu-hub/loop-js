@@ -31,7 +31,6 @@ for (var i = 0; i < numbers.length; i++) {
 
     if (number >= 100) {
         break;
-    }
-
-    // console.log(number);
+    } 
+    console.log(number);
 }
